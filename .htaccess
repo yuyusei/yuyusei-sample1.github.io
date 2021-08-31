@@ -1,0 +1,4 @@
+AuthUserFile "https://github.com/yuyusei/yuyusei-sample1.github.io/.htpasswd"
+AuthName "Enter password"
+AuthType BASIC
+require valid-user
